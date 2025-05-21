@@ -11,7 +11,7 @@ I'm Ocean a Software Engineer with more than 2 years of experience. Experienced 
 ### My stats ⭐
 
 <div align="center">
-<img alt="Ocean's GitHub stats" src="https://github-readme-stats-ewya9235q-khanhngocnes-projects.vercel.app/api?username=NgocNhanNe&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats-ewya9235q-khanhngocnes-projects.vercel.app/api/top-langs/?username=NgocNhanNe&layout=compact&&langs_count=8"/>
+<img alt="Ocean's GitHub stats" src="https://stats-readme.nnnhan.com/api?username=NgocNhanNe&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://stats-readme.nnnhan.com/api/top-langs/?username=NgocNhanNe&layout=compact&&langs_count=8"/>
 </div>
 
